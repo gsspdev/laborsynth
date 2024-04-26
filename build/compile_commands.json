@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/gssp/development/rust_projects/laborsynth/build",
+  "command": "/usr/bin/clang -I/Users/gssp/development/rust_projects/laborsynth/. -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/laborsynth.dir/lib.c.o -c /Users/gssp/development/rust_projects/laborsynth/lib.c",
+  "file": "/Users/gssp/development/rust_projects/laborsynth/lib.c",
+  "output": "CMakeFiles/laborsynth.dir/lib.c.o"
+}
+]

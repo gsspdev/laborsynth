@@ -1,0 +1,11 @@
+[package]
+name = "laborsynth"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bindgen = { version = "0.69.4"}
+cc = { version = "1.0.95", features = ["libc"] }
+clang-sys = { version = "1.7.0", features = ["runtime", "clang_17_0"] }

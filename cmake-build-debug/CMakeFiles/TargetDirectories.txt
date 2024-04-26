@@ -1,0 +1,3 @@
+/Users/gssp/development/rust_projects/laborsynth/cmake-build-debug/CMakeFiles/laborsynth.dir
+/Users/gssp/development/rust_projects/laborsynth/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gssp/development/rust_projects/laborsynth/cmake-build-debug/CMakeFiles/rebuild_cache.dir
